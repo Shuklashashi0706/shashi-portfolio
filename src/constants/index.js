@@ -55,6 +55,9 @@ import {
 import Solidity from "../assets/solidity.svg";
 import EtherJs from "../assets/etherJs.png"
 import Parth from "../assets/Parth.png";
+import DeFlix from "../assets/DeFlix.webp"
+import ClubManager from "../assets/ClubManager.webp"
+import GTMSpace from "../assets/GTMSpace.webp"
 
 export const navigation = [
   {
@@ -118,7 +121,7 @@ export const projects = [
     text: "DeFlix,a decentralized web3 movie reviewing sytem which enables user to post reviews which cannot be modified and deleted providing 100% true reviews to users.Made using MERN stack and Solidity for creating smart contracts and Ethereum as mainnet for deploying smart contracts",
     date: "Sep 2023 - Jun-2024",
     status: "done",
-    imageUrl: roadmap1,
+    imageUrl: DeFlix,
     colorful: true,
     to: "http://143.244.134.9:5173/",
   },
@@ -128,7 +131,7 @@ export const projects = [
     text: "GTMSpace is web3 app for letting users to play games using GTM tokens and earning more GTM tokens.Made using React.js and Tailwind css for creating a user friendly frontend and integrated RainbowKit library for interaction with web3 wallets and used Ether.js for interaction with smart contracts",
     date: "Feb - May 2024",
     status: "done",
-    imageUrl: roadmap4,
+    imageUrl: GTMSpace,
     to: "https://gtm-space-latest.vercel.app/",
   },
   {
@@ -137,7 +140,7 @@ export const projects = [
     text: "Brainstorming idea for creating a web app portal for clubs in college (Students can easily look for clubs and their details along with feature to connect with seniors of clubs) during hackathon till making it a real life product with completing nearly all functionalities.",
     date: "June 2023",
     status: "done",
-    imageUrl: roadmap2,
+    imageUrl: ClubManager,
     to: "https://club-manager-ashen.vercel.app/",
   },
 ];
