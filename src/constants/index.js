@@ -89,7 +89,7 @@ export const navigation = [
   {
     id: "5",
     title: "Buy me a coffee",
-    url: "https://www.linkedin.com/in/shashi-kumar-shukla/",
+    url: "https://buymeacoffee.com/shuklashasi",
     onlyMobile: true,
   },
 ];
