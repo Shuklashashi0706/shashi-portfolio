@@ -51,7 +51,7 @@ const Contact = () => {
                   <p className="ml-4  ">
                     Mail Me at{" "}
                     <a
-                      href={`mailto:tiwariparth02@gmail.com`}
+                      href={`mailto:shuklashashi169@gmail.com`}
                       className="text-n-2"
                     >
                       shuklashashi169@gmail.com
