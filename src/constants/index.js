@@ -53,12 +53,12 @@ import {
   linkedin,
 } from "../assets";
 import Solidity from "../assets/solidity.svg";
-import EtherJs from "../assets/etherJs.png"
+import EtherJs from "../assets/etherJs.png";
 import Parth from "../assets/Parth.png";
-import DeFlix from "../assets/DeFlix.webp"
-import ClubManager from "../assets/ClubManager.webp"
-import GTMSpace from "../assets/GTMSpace.webp"
-
+import DeFlix from "../assets/DeFlix.webp";
+import ClubManager from "../assets/ClubManager.webp";
+import GTMSpace from "../assets/GTMSpace.webp";
+import MintItUp from "../assets/MintItUp.jpg"
 export const navigation = [
   {
     id: "0",
@@ -136,6 +136,15 @@ export const projects = [
   },
   {
     id: "2",
+    title: "MintItUp",
+    text: "MintItUp May 2024: A Next.js and MongoDB-powered platform that lists social startups, leveraging Machine Learning and Solidity smart contracts to connect investors with secure, transparent investment opportunities.",
+    date: "June 2024",
+    status: "done",
+    imageUrl: MintItUp,
+    to: "https://mint-it-up.vercel.app/",
+  },
+  {
+    id: "3",
     title: "Club Manager",
     text: "Brainstorming idea for creating a web app portal for clubs in college (Students can easily look for clubs and their details along with feature to connect with seniors of clubs) during hackathon till making it a real life product with completing nearly all functionalities.",
     date: "June 2023",
@@ -298,7 +307,7 @@ export const benefits = [
   {
     id: "1",
     title: "Backend Dev Intern @ NFThing",
-    text: "Worked in backend part to classify the NFT tokens by creating a fine tuning model and using mongodb aggregation ,along with working in working in integration in frontend... ",
+    text: "Worked in backend part to classify the NFT tokens by creating a fine tuning model and using mongodb aggregation ,along with working in integration in frontend... ",
     backgroundUrl: "src/assets/benefits/card-2.svg",
     iconUrl: benefitIcon3,
     imageUrl: githubBG,

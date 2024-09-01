@@ -39,9 +39,9 @@ const Hero = () => {
             cutting-edge solutions with me. Hey! I'm a full-stack web developer
             specializing in MERN technology.
           </p>
-          <Button href={"#Contact"} color={"white"}>
+          {/* <Button href={"#Contact"} color={"white"}>
             Grab Your Design
-          </Button>
+          </Button> */}
         </div>
         <div className="relative max-w-[100rem] mx-auto lg:max-w-6xl xl:mb-24 ">
           <div className="relative z-1 p-0.5 rounded-2xl bg-conic-gradient ">
