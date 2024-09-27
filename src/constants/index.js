@@ -78,7 +78,7 @@ export const navigation = [
   {
     id: "3",
     title: "Resume",
-    url: "https://drive.google.com/file/d/1jVyaOBMKnW6Wy89ONiv4y-RsycrEc1mC/view?usp=sharing",
+    // url: "https://drive.google.com/file/d/1jVyaOBMKnW6Wy89ONiv4y-RsycrEc1mC/view?usp=sharing",
   },
   {
     id: "4",
